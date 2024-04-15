@@ -1,436 +1,430 @@
-	.mediaViewInfo {
-		--web-view-name: Home – 2;
-		--web-view-id: Home__2;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	:root {
-		--web-view-ids: Home__2;
-	}
-	* {
-		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-		border: none;
-	}
-	#Home__2 {
-		position: absolute;
-		width: 1920px;
-		height: 1080px;
-		background-color: rgba(255,255,255,1);
-		overflow: hidden;
-		--web-view-name: Home – 2;
-		--web-view-id: Home__2;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	#Group_57 {
-		position: absolute;
-		width: 830px;
-		height: 2191px;
-		left: 1090px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Scroll_Group_4 {
-		mix-blend-mode: normal;
-		position: absolute;
-		width: 830px;
-		height: 1080px;
-		left: 0px;
-		top: 0px;
-		overflow: hidden;
-	}
-	#sl_072622_51930_13_Converted {
-		position: absolute;
-		width: 830px;
-		height: 2043px;
-		left: 0px;
-		top: 0px;
-		overflow: hidden;
-	}
-	#sl_072622_51930_13_Converted_bn {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_56 {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_7 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_7 {
-		position: absolute;
-		overflow: visible;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_55 {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#sl_072622_51930_13_Converted_br {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 447px;
-		overflow: visible;
-	}
-	#Group_56_bs {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_7_bt {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_7_bt {
-		position: absolute;
-		overflow: visible;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_55_bu {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#sl_072622_51930_13_Converted_bv {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 894px;
-		overflow: visible;
-	}
-	#Group_56_bw {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_7_bx {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_7_bx {
-		position: absolute;
-		overflow: visible;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_55_by {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#sl_072622_51930_13_Converted_bz {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 1341px;
-		overflow: visible;
-	}
-	#Group_56_b {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_7_b {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_7_b {
-		position: absolute;
-		overflow: visible;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_55_b {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#sl_072622_51930_13_Converted_b {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 1788px;
-		overflow: visible;
-	}
-	#Group_56_ca {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_7_ca {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_7_ca {
-		position: absolute;
-		overflow: visible;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_55_ca {
-		position: absolute;
-		width: 830px;
-		height: 474.287px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_60_b {
-		fill: url(#Rectangle_60_b);
-	}
-	.Rectangle_60_b {
-		position: absolute;
-		overflow: visible;
-		width: 218px;
-		height: 2191px;
-		left: 0px;
-		top: 0px;
-	}
-	#Rectangle_6_b {
-		fill: rgba(204,51,204,1);
-	}
-	.Rectangle_6_b {
-		position: absolute;
-		overflow: visible;
-		width: 536px;
-		height: 1010px;
-		left: 554px;
-		top: 70px;
-	}
-	#Scroll_Group_2_ca {
-		mix-blend-mode: normal;
-		position: absolute;
-		width: 398px;
-		height: 1010px;
-		left: 140px;
-		top: 70px;
-		overflow: hidden;
-	}
-	#Repeat_Grid_1_cb {
-		position: absolute;
-		width: 398px;
-		height: 2059px;
-		left: 0px;
-		top: 0px;
-		overflow: hidden;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_cd {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: -1px;
-		overflow: visible;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_cf {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: 381px;
-		overflow: visible;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_ch {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: 763px;
-		overflow: visible;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_cj {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: 1145px;
-		overflow: visible;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_cl {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: 1527px;
-		overflow: visible;
-	}
-	#Group_cm {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: -5633px;
-		top: 1px;
-		overflow: visible;
-	}
-	#IMG-20240315-WA0016_-_Jasmi_Sh_cn {
-		display: none;
-		position: absolute;
-		width: 536px;
-		height: 366px;
-		left: 5633px;
-		top: 1909px;
-		overflow: visible;
-	}
-	#Jenni_co {
-		left: 639px;
-		top: 129px;
-		position: absolute;
-		overflow: visible;
-		width: 261px;
-		height: 29px;
-		line-height: 32px;
-		margin-top: -4px;
-		text-align: left;
-		font-family: Verdana;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
-	}
-	#Scroll_Group_3_cp {
-		mix-blend-mode: normal;
-		position: absolute;
-		width: 329px;
-		height: 880px;
-		left: 639px;
-		top: 200px;
-		overflow: hidden;
-	}
-	#I_dont_have_any_photos_and_Im__cq {
-		left: 0px;
-		top: 5px;
-		position: absolute;
-		overflow: visible;
-		width: 330px;
-		height: 1428px;
-		line-height: 32px;
-		margin-top: -4px;
-		text-align: left;
-		font-family: Verdana;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
-	}
-	#Group_2_cr {
-		position: absolute;
-		width: 329px;
-		height: 20px;
-		left: 639.5px;
-		top: 190px;
-		overflow: visible;
-		padding: 10px 0px 10px 0px;
-	}
-	#Line_1_cs {
-		filter: blur(50px);
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: round;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Line_1_cs {
-		overflow: visible;
-		position: absolute;
-		width: 331px;
-		height: 2px;
-		left: 0px;
-		top: 10px;
-		transform: matrix(1,0,0,1,0,0);
-	}
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_57 {
+	position: absolute;
+	width: 830px;
+	height: 2191px;
+	left: 1090px;
+	top: 0px;
+	overflow: visible;
+}
+#Scroll_Group_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 830px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#sl_072622_51930_13_Converted {
+	position: absolute;
+	width: 830px;
+	height: 2043px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#sl_072622_51930_13_Converted_j {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_56 {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+}
+#Group_55 {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sl_072622_51930_13_Converted_n {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 447px;
+	overflow: visible;
+}
+#Group_56_o {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_p {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_p {
+	position: absolute;
+	overflow: visible;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+}
+#Group_55_q {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sl_072622_51930_13_Converted_r {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 894px;
+	overflow: visible;
+}
+#Group_56_s {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_t {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_t {
+	position: absolute;
+	overflow: visible;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+}
+#Group_55_u {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sl_072622_51930_13_Converted_v {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 1341px;
+	overflow: visible;
+}
+#Group_56_w {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_x {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_x {
+	position: absolute;
+	overflow: visible;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+}
+#Group_55_y {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sl_072622_51930_13_Converted_z {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 1788px;
+	overflow: visible;
+}
+#Group_56_ {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_ {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_ {
+	position: absolute;
+	overflow: visible;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+}
+#Group_55_ {
+	position: absolute;
+	width: 830px;
+	height: 474.287px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_60_ {
+	fill: url(#Rectangle_60_);
+}
+.Rectangle_60_ {
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 2191px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_6 {
+	fill: rgba(204,51,204,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 536px;
+	height: 1010px;
+	left: 554px;
+	top: 70px;
+}
+#Scroll_Group_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 398px;
+	height: 1010px;
+	left: 140px;
+	top: 70px;
+	overflow: hidden;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 398px;
+	height: 2059px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_ba {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 382px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh_bb {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_bc {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 764px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh_bd {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_be {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 1146px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh_bf {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_bg {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 1528px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh_bh {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_bi {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 1910px;
+	overflow: visible;
+}
+#IMG-20240315-WA0016_-_Jasmi_Sh_bj {
+	position: absolute;
+	width: 536px;
+	height: 366px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Jenni {
+	left: 639px;
+	top: 129px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 29px;
+	line-height: 32px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Scroll_Group_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 329px;
+	height: 880px;
+	left: 639px;
+	top: 200px;
+	overflow: hidden;
+}
+#I_dont_have_any_photos_and_Im_ {
+	left: 0px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 1428px;
+	line-height: 32px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 329px;
+	height: 20px;
+	left: 639.5px;
+	top: 190px;
+	overflow: visible;
+	padding: 10px 0px 10px 0px;
+}
+#Line_1 {
+	filter: blur(50px);
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 331px;
+	height: 2px;
+	left: 0px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
