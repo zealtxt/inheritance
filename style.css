@@ -1,5 +1,7 @@
 body {
 	background-color: #608BFF;
+	font-family: 'Pixelify Sans';
+	color: white;
 	}
 
 #header {
@@ -10,11 +12,4 @@ body {
 #story {
 	width: 674px;
 	margin: 180px 600px 0px;
-	font-family: 'Pixelify Sans';
-	color: white;
-}
-
-p {
-	font-family: 'Pixelify Sans';
-	color: white;
 }
