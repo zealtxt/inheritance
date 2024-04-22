@@ -7,6 +7,9 @@ body {
 	height: auto;
 }
 
+#story {
+	margin: 180px 600px 0px;
+}
 p {
 	font-family: 'Pixelify Sans';
 	color: #white;
