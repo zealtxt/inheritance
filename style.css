@@ -7,11 +7,7 @@ body {
 	height: auto;
 }
 
-#story div {
-	width: 600px;
-	height: auto;
-}
-
 p {
 	font-family: 'Pixelify Sans';
+	font-color: #FFFDEA;
 }
