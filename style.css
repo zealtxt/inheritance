@@ -1,10 +1,10 @@
 body {
 	background-color: #608BFF;
-	margin: 8px 0px;
-}
+	}
 
 #header {
 	width: 100%;
+	margin: 8px 0px;
 }
 
 #story {
@@ -13,5 +13,5 @@ body {
 }
 p {
 	font-family: 'Pixelify Sans';
-	color: #white;
+	color: white;
 }
