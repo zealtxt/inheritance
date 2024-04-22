@@ -6,3 +6,9 @@ body {
 	width: 100%;
 	height: auto;
 }
+
+#id p {
+	width: 600px;
+	height: auto;
+	font-family: 'Pixelify Sans';
+}
