@@ -9,8 +9,9 @@ body {
 }
 
 #story {
-	width: 30%;
+	width: 35%;
 	margin: auto;
+	margin-top: 60px;
 	font-family: 'Pixelify Sans';
 	color: white;
 	font-size: 18px;
