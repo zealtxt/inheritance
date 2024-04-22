@@ -13,5 +13,6 @@ body {
 	margin: auto;
 	font-family: 'Pixelify Sans';
 	color: white;
-	font-size: 24px;
+	font-size: 18px;
+	line-height: 1.5;
 }
